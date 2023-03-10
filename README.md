@@ -1,4 +1,4 @@
-<h3> Oi, eu sou o Rubens Rocha, Desenvolvedor Full Stack pela Empresa Paytech ✌ </h3>
+<h3> Oi!! eu sou o Rubens Rocha, Desenvolvedor Full Stack pela Empresa Paytech ✌ </h3>
 
 <div>
   <a href="https://portifolio-six-gold.vercel.app" target="_blank">
